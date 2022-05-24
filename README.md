@@ -7,3 +7,6 @@ I work at Javaabu as a full-stack web developer
 
 
 - [My Blog](https://abunooh.com/)
+
+> **Motivation**
+> Victory loves preparation
