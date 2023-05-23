@@ -1,13 +1,14 @@
 ## Welcome to my humble github account
 
 ### Little about myself
-A developer by passion with 3 years of corporate experience in building web applications that can handle thousands of users with intensive usage and complicated business logics. Always looking to further my knowledge, skills and experience in religion, science and programming.
+Hello, I'm a passionate developer with four years of valuable corporate experience in crafting robust web applications capable of handling high user traffic and intricate business operations. I'm constantly seeking opportunities to expand my knowledge, enhance my skills, and gain more expertise in areas such as religion, science, and programming.
 
-I work at Javaabu as a full-stack web developer
+Currently, I am fortunate to be a part of Javaabu, where I contribute as a senior full-stack web developer.
 
 
 - [My Blog](https://abunooh.com/)
 
 > **Note**
 > 
-> Victory loves preparation
+> "Victory loves preparation" ~unknown
+> "It takes years to develop one's flexibility! And years longer to apply it in combat!" ~ Master Shifu
