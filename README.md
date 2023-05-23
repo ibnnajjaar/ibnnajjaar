@@ -8,7 +8,8 @@ Currently, I am fortunate to be a part of Javaabu, where I contribute as a senio
 
 - [My Blog](https://abunooh.com/)
 
-> **Note**
-> 
+**Some favourite quotes**
+
 > "Victory loves preparation" ~unknown
+
 > "It takes years to develop one's flexibility! And years longer to apply it in combat!" ~ Master Shifu
